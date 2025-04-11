@@ -20,3 +20,9 @@ An interactive personality test application that helps users understand their pe
    ```bash
    git clone https://github.com/your-username/personality-test-app.git  
    cd personality-test-app  
+2. **Install dependencies**
+   ```bash
+   npm install  
+3. **Start the development server**
+    ```bash
+    npm run dev  
